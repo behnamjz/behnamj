@@ -1,5 +1,5 @@
 ### Hi there 👋
-Front-end web developer with +6 years of experience using JavaScript, HTML, and CSS to build all aspects of the user experience and user interface for client- facing landing pages. Specializes in using Vuejs to build web applications and websites.
+Front-end web developer with +6 years of experience using JavaScript, HTML, and CSS to build all aspects of the user experience and user interface for client- facing landing pages. Specializes in using React and Vuejs to build web applications and websites.
 I enjoy creating height-quality & perfect products. Solving complicated problems and improving products make me excited.
 
 
